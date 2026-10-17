@@ -1,0 +1,2 @@
+# premium-delta-kite-001-delta-kite-sail-spine-flex-c
+Tired of guessing sail angles and spine flex ratios when designing delta kites? The Delta Kite Sail &amp; Spine Flex Craft Lab eliminates the trial-and-error by giving you a complete system to test, measure, and optimize every variable that affects flight performance.  This Notion template transforms delta-kite design from intuition-based tinkering int
